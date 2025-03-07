@@ -1,4 +1,4 @@
-# ![Business man](personas/persona1.jpeg)  
+# ![Business man](persona1.jpeg)  
 **Name:** [Pedro Silva]  
 **Age:** [34]  
 **Occupation:** [Empresário]  

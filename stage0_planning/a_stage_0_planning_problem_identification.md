@@ -13,7 +13,7 @@
 A área do nosso projeto vai ser compras (shopping), mais especificamente a preparação antes de as fazer e o dinheiro 
 e tempo que poderia ser poupado se houvesse uma maneira eficaz de a fazer. 
 O que também torna este tema interessante é o facto de não ser restrito a um grupo de usuários, resolvendo por isso
-o probolema de mais pessoas.
+o problema de mais pessoas.
 
 # Challenges
 [What are aspects that remain a challenge? What is difficult to do? What could profit from a more customizable approach?]

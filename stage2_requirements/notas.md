@@ -15,6 +15,11 @@
             quem anda todos os dias de comboio e quem usa apenas esporadicamente
             - Seria necessário 2 personas para por exemplo um utilizador e para um administrafor
             - Mais exemplos nos slides, e no site do norman-wilson
+    
+    - #### _Alguns rascunhos de personas_
+        - Pessoa com pouco tempo (usa a listas favoritas)
+        - Pessoa de familia (compra tudo de uma vez)
+        - Pessoa que está à procura de promoções e descontos
 
 - ### _Cenarios_
     - Uma historia de uma persona que iria utilizar a nossa aplicação
@@ -22,7 +27,7 @@
 
 - ### _Contexto_
     - Usa as personas e os cenarios e conta uma "historia"
-    - _** Nao precisamos de falar sobre interfaces, apenas os objetivos que a persona
+    - _**Nao precisamos de falar sobre interfaces, apenas os objetivos que a persona
     quer**_.
 
 - ## O que a aplicação vai fazer

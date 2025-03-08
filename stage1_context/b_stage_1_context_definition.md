@@ -14,8 +14,7 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
+| [Kabaz.pt]        |[Online platform comparing supermaket prices]| [[Competitor Analysis AmazonShoes]] |
 | ...               |                                             |                                     |
 
 
@@ -23,13 +22,13 @@
 
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
-
+Kabaz.pt
 
 ### - Heuristic Evaluation
 
 #### Method
 [ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
-
+We made each an heuristic evaluation of the kabaz.pt system, using the default severity scale. Then we talked about each issue found on the evaluation and came to a consensus of wich ones were usefull.
 
 #### Individual Evaluations
 
@@ -45,11 +44,27 @@
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| **Issue**           | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             					|
+| --------------------| ------------ | -------- | -------- | ---------------------------------------------------------------|
+| Search Indicator    | 2            | 3        |          | Indicate to user when a search is being made					|
+| Adding to list      | 3            |          |          | Haver uma confirmação imediata de adição de um produto 		|
+| Product descriptions| 3            |          |          | Usar linguagem mais simples do dia a dia						|
+| Undo remove         | 3            |          | 1        | Adiconar uma feature para desfazer remoção						|
+| Exit search		  | 3            |          | 2        | Adicionar um botão para voltar para trás						|
+| Missing Itens		  | 3            |          | 3        | Avisar o utilizador que o produto não está disponivel			|
+| Recent Searchs	  | 2            |          |          | Mostrar pesquisas recentes ao pesquisar						|
+| Recomendations	  | 2            |          |          | Implementar recomendações de produtos baseados no histórico	|
+| Tutorial/Tooltips	  | 3            |          |          | Add an page for begginers to learn how to use the system   	|
+| Mobile Format	      |              | 4        | 1        | Fazer o sistema mais adequado para dispositivos mais pequenos	|
+| Remove item	      |              | 3        | 2        | Add button on list to remove item				        		|
+| Supermarket item	  |              | 2        |          | Make supermarket where item is available visible right away    |
+| Discount Search	  |              | 3        |          | Make it available to search on the specific discount			|
+| Frequent Lists	  |              | 2        |          | Have the most used lists stored for speed						|
+| FAQ	              |              | 3        |          | Make a FAQ available for users to solve their problems quickly |
+| Scroll animation	  |              |          |          | Make it available to search on the specific discount			|
+| Discount Search	  |              |          | 1        | Add an spring animation when pages comes to end while scrolling|
+| Troca e poupa		  |              |          | 2        | Make button disappear when going to menu						|
+| GPS	  			  |              |          | 2        | Explain to user what it does and how it works for them			|
 
 
 
@@ -148,27 +163,27 @@ Task: [Change localization radius]
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
 
+Fizemos um guião de entrevista para perceber quais os costumes dos nossos utilizadores, os seus problemas, as suas frustações e as funcionalidades que eles mais precisam num sistema.
+Os utilizadores considerados são todos, já que o sistema é direcionado para toda a gente de qualquer idade e profissão.
+As questões usadas foram [Questões](interviews/questions.md)
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
 ### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| Date       | Participant / Role | Key Insights                                         | Link to Notes                    |
+| 25-02-2025 |       student      | Thinks that searching groceries prices is boring and takes too long													 | [📄 Notes](interviews/questionsAnswer1.md)|
+| 25-02-2025 |       student      | Would be usefull to make more than one list because of specific produts that only exist on some specific store                                                     |    [📄 Notes](interviews/questionsAnswers2.md)|
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Doesnt know where is cheaper to buy their products
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- List on cellphone notes or on paper
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- Create list
+	- Compare prices
 - --- 
 
 

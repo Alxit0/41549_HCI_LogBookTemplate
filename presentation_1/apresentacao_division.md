@@ -9,4 +9,4 @@
 | Contextos                                  | Alex, Bernardo |
 | Tasks                                      | Joao           |
 | Requiriments (Functional / Non Functional) | Alex           |
-| Tools                                      | Bernardo       |
+| Tools                                      | Alex           | 

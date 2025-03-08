@@ -58,6 +58,8 @@
 
 #### Method
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+In order to make a cognitive walktrough, we used the site for a while so we could understand all it's features.
+After that we tried to follow Nielson Norman Group's model to create simulations of the most important features.
 
 #### Task Selection and Task Analysis
 

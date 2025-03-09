@@ -100,32 +100,66 @@ Task: [This is the task]
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+- **Approach:** interviews
+
+- **User Types:**  
+  - (1) Single male  
+  - (2) Homemaker  
+  - (3) Adriana (University student)  
+  - (4) Gonçalo (University student)  
+  - (5) Tech-savvy user (New interview)  
+
+- **Goals of Interviews:**  
+  - Identify shopping habits and frustrations  
+  - Understand price comparison behaviors  
+  - Explore potential solutions and features for an app  
+
+- **Key Questions:**  
+  - Do you shop with a list or spontaneously?  
+  - How do you choose where to shop?  
+  - Do you compare prices? If so, how?  
+  - Have you used any price-comparison tools?  
+  - What is the most frustrating part of shopping?  
+  - What features would you like in a price-comparison app?  
+
+---
 
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
 ### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| Participant / Role | Key Insights | Link to Notes |  
+|----------------------|------------------------------------------------|---------------|  
+| Single Male | Shops spontaneously, forgets items, prefers small stores | [📄 Notes](./interviews/iterview-agregate-alex.md) |  
+| House-wife | Uses 'Bring' app, shops at 3 stores for savings | [📄 Notes](./interviews/iterview-agregate-alex.md) |  
+| Adriana (Student) | Goes to multiple stores for specific items, dislikes checkout lines | [📄 Notes](./interviews/iterview-agregate-alex.md) |  
+| Gonçalo (Student) | Focuses on best prices, limited selection influences choices  | [📄 Notes](./interviews/iterview-agregate-alex.md) |  
+| Engineering Student | Compares prices online for tech, not groceries, wants per-product price comparison | [📄 Notes](./interviews/questionsAnswer1.md) |  
+
+---
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+  - Long checkout wait times  
+  - Forgetting to buy needed items  
+  - Lack of organization in stores  
+  - Hard to compare prices manually  
+  - Limited product availability at preferred stores  
+
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+  - 'Bring' app (for shopping lists)  
+  - Lidl app (for promotions)  
+  - Some manually check store websites  
+
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
-- --- 
-
-
+  - A **real-time price comparison app** (must be highly accurate)  
+  - Ability to **compare prices per product and for full purchases**  
+  - **Discount tracking** within the app  
+  - **Integration with smaller supermarkets**  
+  - Option to filter by user habits (shopping times, preferred stores)  
+  - Additional product info (e.g., reviews, features for tech products)  
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)

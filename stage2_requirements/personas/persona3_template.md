@@ -28,7 +28,7 @@ Na maioria das vezes, sai com a família 1 ou 2 vezes por mês com uma lista de 
 ## Pain Points & Challenges  
 [Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
 
-Mesmo com um salário decente, António quer comprar as suas coisas onde é mais barato para poupar o seu suado salário, mas mesmo assim tendo em conta alguns produtos/marcas específicas que a sua mulher e os seus filhos possam querer (ex: filho quer iogurtes da marca Mimosa). António vê-se incapaz de lidar com tantas opções de supermercados para conseguir ver qual o que mais lhe compensa tendo em conta os produtos que consome.
+Mesmo com um salário decente, António quer comprar as suas coisas onde é mais barato para poupar o seu suado salário, mas mesmo assim tendo em conta alguns produtos/marcas específicas que a sua mulher e os seus filhos possam querer (ex: filho quer iogurtes da marca Mimosa). António vê-se incapaz de lidar com tantas opções de supermercados para conseguir ver qual o que mais lhe compensa tendo em conta os produtos que consome. Para poupar dinheiro António também quer que o sistema tenha em conta os descontos que o supermercado está a aplicar
 ## Motivation  
 *"Why do they engage with this product or service?"*  
 [Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  

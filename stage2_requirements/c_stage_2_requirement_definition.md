@@ -28,15 +28,15 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Photo**        | ![António Mendes](personas/persona3.jpg)            |
+| **Name**         | [António Mendes]                                |
+| **Age**          | [40]                                 |
+| **Occupation**   | [Carpinteiro]                           |
+| **Location**     | [Aveiro, Portugal]                               |
+| **Goals**        | [Fazer lista, comparar preço de lista e produtos, ver descontos]           |
+| **Pain Points**  | [Muitas opções de supermercado, mas não conseguir organizar qual o mais barato para ele]              |
+| **Motivation**   | [Poupar dinheiro]                |
+| **Full Profile** | [📄 Read More](personas/persona3_template.md) |
 
 ---
 
@@ -47,7 +47,7 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: António volta para casa depois de um dia de trabalho
 
 [Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
 

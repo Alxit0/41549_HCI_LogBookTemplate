@@ -58,38 +58,84 @@
 
 #### Method
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+In order to make a cognitive walktrough, we used the site for a while so we could understand all it's features.
+After that we tried to follow Nielson Norman Group's model to create simulations of the most important features.
 
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
+The selected task were either the most important mechanics of the site or the things users would
+do the most
+
+The selected task were either the most important mechanics of the site or the things users would
+do the most
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
-
+| **1. Compare a product's**  | Search for the product                 |
+|**price in each supermarket**| Select the desired one from the list   |
+|                             | Slide down to the supermarket's area (only on phone)|
+|                             | Analyze prices                         |
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| **2. Compare a list's**      | Search and add all desired products to the list|
+| **price in each supermarket** | Click my kabaz                          |
+|                               | Compare price by supermarket            |
+|                               | (Optional) Go to Comparison table in order to see unavailable products |
 
+| Task                        | Subtasks                               |
+| --------------------------- | -------------------------------------- |
+|**3. Remove product from**   | Go to my kabaz                         |
+|**the list**                 | Select "all the products" bar          |
+|                             | Select a product or products' checkbox |
+|                             | Click remove                           |
+
+| Task                        | Subtasks                               |
+| --------------------------- | -------------------------------------- |
+| **4. Change localization**  | Select alter on the side or top bar    |
+|**radius**                   | Change the radius by sliding the blue bar|
+|                             | Click start saving                     |
 
 #### Results
 
-Task: [This is the task]
+Task: [Compare a product's price in each supermarket]
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Search for the product | [Yes]                                         |      | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+| 2      | Select the desired one from the list | [Yes]                     |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+| 3      | Slide down to the supermarket's area (only on phone) | [No]                      |       | [Yes]                                                                                 |       | 
+[Yes]                       | [Suggestions]               |     |
+| 4      | Analyze prices          | [Yes]                                     |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+
+
+Task: [Compare a list's price in each supermarket]
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Search and add all desired products to the list | [Yes]            |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+| 2      | Click my kabaz          | [Yes]                                     |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+| 3      | Compare price by supermarket | [Yes]                           |       | [Yes]                                                                                 |       | [Yes]                       | [Make indisponible warnings more visible ]               |     |
+| 4      | (Optional) Go to Comparison table in order to see unavailable products | [No] |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+
+Task: [Remove product from the list]
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Go to my kabaz          | [Yes]                                     |       | [No]                                                                                 |       | [Yes]                       | [In my kabaz put All products as first tab]               |     |
+| 2      | Select "all the products" bar | [No]                                     |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+| 3      | Select a product or products' checkbox | [No]                    |       | [Yes]                                                                                 |       | [Yes]                       | [Having a remove button on each product]               |     |
+| 4      | Click remove            | [Yes]                                     |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+
+Task: [Change localization radius]
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Select alter on the side or top bar | [No]                          |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+| 2      | Change the radius by sliding the blue bar | [Yes]                      |       | [Yes]                                                                                 |       | [Yes]                       | [Suggestions]               |     |
+| 3      | Click start saving      | [No]                                     |       | [Yes]                                                                                 |       | [Yes]                       | [Giving the save button a better tag]               |     |
 
 
 

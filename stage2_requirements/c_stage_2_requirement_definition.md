@@ -116,5 +116,9 @@ List of requirements the system should do
 - O sistema deve avisar o utilizador de possíveis erros
 - O sistema deve ter uma interface intuitiva e fácil de usar
 - O sistema deve estar disponível 99% dos casos
+- Os dados da mesma conta devem ser iguais em todos os dispositivos
+- O utilizador deve fazer login na sua conta (opcional)
+- O sistema deve cumprir com as leis e regulações do país/local onde será utilizado
+- O sistema deve ser capaz de aguentar grande volume de dados de utilizadores
 ---
 [Back to main Logbook Page](hci_logbook.md)

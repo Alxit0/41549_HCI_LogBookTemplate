@@ -9,22 +9,22 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: [Pedro Silva] 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Photo**        | ![Pedro Silva](personas/persona2.jpg)  |
+| **Name**         | [Pedro Silva]                                |
+| **Age**          | [34]                                 |
+| **Occupation**   | [Empresário]                           |
+| **Location**     | [Minho, Portugal]                               |
+| **Goals**        | [Fazer uma lista reutilizável rapidamente]           |
+| **Pain Points**  | [Falta de tempo]              |
+| **Motivation**   | [Fazer mais com menos tempo e esforço]                |
+| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
 
 ---
-## Persona: [Persona Name] 
+## Persona: [António Mendes] 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
@@ -109,6 +109,7 @@ List of requirements the system should do
 - O sistema deve ter um sistema de checkbox na lista
 - O sistema deve permitir a remoção de um produto da lista
 - O sistema deve permitir que se alterem as quantidades de um produto na lista
+- O sistema deve permitir que vários dispositivos alteram a mesma lista
 
 ## C.2. Non-functional requirements
 - O sistema deve recomendar produtos para a lista

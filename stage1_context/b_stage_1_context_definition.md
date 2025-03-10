@@ -158,7 +158,10 @@ Task: [Change localization radius]
 
 [Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
 
----
+Strengths: Does the work as expected, interface with some problems but relatively simple
+Weakness: Mobile experience is not good
+Oportunites: A simpler system, with features that people with less techonology literacy might atract more costumers, mobile
+Threats: Digitalization of some supermarkets might put at risk this system
 
 # B.2. Users
 >	For the users, there are two goals: 1) understand the current status of users in the domain you are addressing. How do they manage, what are the main tasks they do, if they use some tool for the purpose, what are current challenges, what might be improved, what might be new features, ...

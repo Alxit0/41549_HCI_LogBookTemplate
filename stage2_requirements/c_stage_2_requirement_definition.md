@@ -48,12 +48,12 @@
 
 
 ## Scenario 1: António volta para casa depois de um dia de trabalho
-António está a ir para casa depois de um dia de trabalho e decide que quer levar algo especial para a sua família jantar. Uma peça de carne ou peixe que António vai usar para cozinhar um delicioso jantar para a sua família.
+António está a ir para casa depois de um dia de trabalho e decide que quer levar algo especial para a sua família jantar. Uma peça de carne que António vai usar para cozinhar um delicioso jantar para a sua família.
 Como ele não é rico quer saber rapidamente onde é que esse **produto está disponível, onde tem descontos e onde é mais barato**.
 António então abre a nossa aplicação, **pesquisa o produto** e rapidamente consegue ver **os supermercados em que está disponível** e **comparar os diferentes preços** tendo em conta os possíveis **descontos**.
 
 ## Scenario 2: António sai com a sua família para fazer as compras de casa
-É domingo e depois de uma semana de trabalho, António e a sua mulher decidem que têm que ir ao supermercado fazer as compras do que faz falta em sua casa. Cansados que ter que escrever numa lista de papel, para depois irem ao supermercado e descobrir que os produtos que querem não estão disponíveis ou estão mais caros que em outros sítios ou que há outro supermercado com descontos naquilo que eles querem, António e a sua mulher decidem então **procurar os produtos** na nossa aplicação, **criando uma lista de compras** e **adicionando os produtos a essa lista** em **diferentes quantidades** . No fim, eles querem **comparar os preços** da lista em diferentes supermercados para saber onde devem ir **num raio pre-definido por eles**.
+É domingo e depois de uma semana de trabalho, António e a sua mulher decidem que têm que ir ao supermercado fazer as compras do que faz falta em sua casa. Cansados que ter que escrever numa lista de papel, para depois irem ao supermercado e descobrir que os produtos que querem não estão disponíveis ou estão mais caros que em outros sítios ou que há outro supermercado com descontos naquilo que eles querem, António e a sua mulher decidem então **procurar os produtos** na nossa aplicação, **criando uma lista de compras compartilhada** e **adicionando os produtos a essa lista** em **diferentes quantidades** . No fim, eles querem **comparar os preços** da lista em diferentes supermercados para saber onde devem ir **num raio pre-definido por eles**.
   
 ## Scenario 3: Pedro makes a list very quick
 
@@ -92,7 +92,7 @@ António então abre a nossa aplicação, **pesquisa o produto** e rapidamente c
 List of requirements the system should do
 ## C.1. Functional requirements
 - O sistema deve permitir que se pesquise por um produto
-    - por nome genérico(ex: leite, batatasm,...)
+    - por nome genérico(ex: leite, batatas,...)
     - por nome específico (ex: leite mimosa 1L)
 
 - O sistema deve permitir comparar preços do produto

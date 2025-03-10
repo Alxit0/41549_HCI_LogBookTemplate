@@ -50,21 +50,21 @@ We made each an heuristic evaluation of the kabaz.pt system, using the default s
 | Adding to list      | 3            |          |          | Haver uma confirmação imediata de adição de um produto 		|
 | Product descriptions| 3            |          |          | Usar linguagem mais simples do dia a dia						|
 | Undo remove         | 3            |          | 1        | Adiconar uma feature para desfazer remoção						|
-| Exit search		  | 3            |          | 2        | Adicionar um botão para voltar para trás						|
-| Missing Itens		  | 3            |          | 3        | Avisar o utilizador que o produto não está disponivel			|
-| Recent Searchs	  | 2            |          |          | Mostrar pesquisas recentes ao pesquisar						|
-| Recomendations	  | 2            |          |          | Implementar recomendações de produtos baseados no histórico	|
+| Exit search		      | 3            |          | 2        | Adicionar um botão para voltar para trás						|
+| Missing Itens		    | 3            |          | 3        | Avisar o utilizador que o produto não está disponivel			|
+| Recent Searchs	    | 2            |          |          | Mostrar pesquisas recentes ao pesquisar						|
+| Recomendations	    | 2            |          |          | Implementar recomendações de produtos baseados no histórico	|
 | Tutorial/Tooltips	  | 3            |          |          | Add an page for begginers to learn how to use the system   	|
 | Mobile Format	      |              | 4        | 1        | Fazer o sistema mais adequado para dispositivos mais pequenos	|
-| Remove item	      |              | 3        | 2        | Add button on list to remove item				        		|
+| Remove item	        |              | 3        | 2        | Add button on list to remove item				        		|
 | Supermarket item	  |              | 2        |          | Make supermarket where item is available visible right away    |
-| Discount Search	  |              | 3        |          | Make it available to search on the specific discount			|
-| Frequent Lists	  |              | 2        |          | Have the most used lists stored for speed						|
-| FAQ	              |              | 3        |          | Make a FAQ available for users to solve their problems quickly |
+| Discount Search	    |              | 3        |          | Make it available to search on the specific discount			|
+| Frequent Lists	    |              | 2        |          | Have the most used lists stored for speed						|
+| FAQ	                |              | 3        |          | Make a FAQ available for users to solve their problems quickly |
 | Scroll animation	  |              |          |          | Make it available to search on the specific discount			|
-| Discount Search	  |              |          | 1        | Add an spring animation when pages comes to end while scrolling|
-| Troca e poupa		  |              |          | 2        | Make button disappear when going to menu						|
-| GPS	  			  |              |          | 2        | Explain to user what it does and how it works for them			|
+| Discount Search	    |              |          | 1        | Add an spring animation when pages comes to end while scrolling|
+| Troca e poupa		    |              |          | 2        | Make button disappear when going to menu						|
+| GPS	  			        |              |          | 2        | Explain to user what it does and how it works for them			|
 
 
 

@@ -1,4 +1,4 @@
-# ![Business man](persona1.jpeg)  
+# ![Business man](persona2.jpg)  
 **Name:** [Pedro Silva]  
 **Age:** [34]  
 **Occupation:** [Empresário]  
@@ -22,7 +22,8 @@ Posteriormente sai para fazer as tarefas básicas já cansado e sem muito tempo 
 ## Goals & Needs  
 [Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
 
-- Fazer uma lista de compras de forma rápida, priorizando o supermercado mais próximo
+- Fazer uma lista de compras de forma rápida
+- Saber qual o supermercado recomendado priorizando proximidade
 - Ver listas que ele fez anteriormente reutilizando (guardando ou não)
 - Ir às compras usando a lista e marcando os produtos que já comprou
 

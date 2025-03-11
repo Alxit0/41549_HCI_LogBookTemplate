@@ -6,18 +6,16 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: [Preço Certo]
 **Team:**
 - Student 1: [Bernardo Martins 120151] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 2; [Alexandre Regalado 124572]
+- Student 3: [João Pedro 120010]
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
  > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
 
-<!-- For this stage you will need to read this:-->
-<!-- NAO ESTAVA AQUI NADA... º__º -->
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
 > 	This stage spans weeks 2 and 3. It entails identifying competitors, analyse the most representative using heuristic evaluation and cognitive walkthrough, and understand how users currently approach the problem and their expectations and needs.
